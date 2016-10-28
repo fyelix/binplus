@@ -31,7 +31,7 @@ We offering basic usage with JSON , XML , CSV (Soon)
 You can basically using our API with JSON response 
 
 ``` curl
-curl https://bins.payout.com/api/json/<YOUR BIN>/bin
+curl https://bin.plus/api/json/<YOUR BIN>/bin
 ```
 
 After you've done this, you probably can parsing this response data
@@ -41,7 +41,7 @@ After you've done this, you probably can parsing this response data
 You can basically using our API with XML response 
 
 ``` curl
-curl https://bins.payout.com/api/xml/<YOUR BIN>/bin
+curl https://bin.plus/api/xml/<YOUR BIN>/bin
 ```
 
 After you've done this, you probably can parsing this response data
@@ -51,7 +51,7 @@ After you've done this, you probably can parsing this response data
 You can basically using our API with CSV response 
 
 ``` curl
-curl https://bins.payout.com/api/csv/<YOUR BIN>/bin
+curl https://bin.plus/api/csv/<YOUR BIN>/bin
 ```
 
 After you've done this, you probably can parsing this response data
