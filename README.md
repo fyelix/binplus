@@ -62,15 +62,14 @@ Misc
 Inspirations
 ------------
 
-The following projects have inspired Flatdoc.
+The following projects have inspired Bin+.
 
- * [Backbone.js] - Jeremy's projects have always adopted this "one page
- documentation" approach which I really love.
+ * [BinDB] - a Project captured all information BIN
 
  * [Docco] - Jeremy's Docco introduced me to the world of literate programming,
  and side-by-side documentation in general.
 
- * [Stripe] - Flatdoc took inspiration on the look of their API documentation.
+ * [Stripe] - We caught more information bin with this endpoint API Stripe.
 
  * [DocumentUp] - This service has the same idea but does a hosted readme 
  parsing approach.
@@ -84,18 +83,18 @@ licensed under Creative Commons.
 Acknowledgements
 ----------------
 
-Â© 2013, 2014, Rico Sta. Cruz. Released under the [MIT 
+© 2016, Fyelix Schurley. Released under the [MIT 
 License](http://www.opensource.org/licenses/mit-license.php).
 
-**Flatdoc** is authored and maintained by [Rico Sta. Cruz][rsc] with help from its 
+**BIN+** is authored and maintained by [Fyelix Schurley][rsc] with help from its 
 [contributors][c].
 
- * [My website](http://ricostacruz.com) (ricostacruz.com)
- * [Github](http://github.com/rstacruz) (@rstacruz)
- * [Twitter](http://twitter.com/rstacruz) (@rstacruz)
+ * [My website](http://fyel.us) (fyel.us)
+ * [Github](http://github.com/fyelix) (@fyelix)
+ * [Twitter](http://twitter.com/fyelixs) (@fyelixs)
 
-[rsc]: http://ricostacruz.com
-[c]:   http://github.com/rstacruz/flatdoc/contributors
+[rsc]: http://fyel.us
+[c]:   http://github.com/fyelix/binplus/contributors
 
 [GitHub API]: http://github.com/api
 [marked]: https://github.com/chjj/marked
@@ -106,8 +105,3 @@ License](http://www.opensource.org/licenses/mit-license.php).
 [GitHub pages]: https://pages.github.com
 [fences]:https://help.github.com/articles/github-flavored-markdown#syntax-highlighting
 [DocumentUp]: http://documentup.com
-
-[project]: https://github.com/rstacruz/flatdoc
-[template]: https://github.com/rstacruz/flatdoc/raw/gh-pages/templates/template.html
-[blank]: https://github.com/rstacruz/flatdoc/raw/gh-pages/templates/blank.html
-[dist]: https://github.com/rstacruz/flatdoc/tree/gh-pages/v/0.9.0
