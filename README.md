@@ -46,7 +46,7 @@ curl https://bins.payout.com/api/xml/<YOUR BIN>/bin
 
 After you've done this, you probably can parsing this response data
 
-### Via a XML
+### Via a CSV
 
 You can basically using our API with CSV response 
 
