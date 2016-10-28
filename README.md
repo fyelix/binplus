@@ -64,7 +64,7 @@ Inspirations
 
 The following projects have inspired Bin+.
 
- * [binlist] - a Project captured all information BIN
+ * [binlist-data] - a Project captured all information BIN
 
  * [Docco] - Jeremy's Docco introduced me to the world of literate programming,
  and side-by-side documentation in general.
