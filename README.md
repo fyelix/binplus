@@ -23,4 +23,35 @@ With our API you just using only the first six digits of any credit card number.
 * Find from which country the card was issued.
 * Find the issuing contact phone and website of the bank which issued the card.
 
-[Check our Partnert >][partnert]
+Getting Started
+---------------
+We offering basic usage with JSON , XML , CSV (Soon)
+### Via JSON
+
+You can basically using our API with JSON response 
+
+``` curl
+curl https://bins.payout.com/api/json/<YOUR BIN>/bin
+```
+
+After you've done this, you probably can parsing this response data
+
+### Via a XML
+
+You can basically using our API with XML response 
+
+``` curl
+curl https://bins.payout.com/api/xml/<YOUR BIN>/bin
+```
+
+After you've done this, you probably can parsing this response data
+
+### Via a XML
+
+You can basically using our API with CSV response 
+
+``` curl
+curl https://bins.payout.com/api/csv/<YOUR BIN>/bin
+```
+
+After you've done this, you probably can parsing this response data
